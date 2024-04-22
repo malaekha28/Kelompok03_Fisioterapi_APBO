@@ -13,7 +13,7 @@ Kami merancang sebuah website yang menyediakan solusi lengkap untuk kebutuhan pa
 ---
 ## Permasalahan Klinik Kamy Physio
 
-- Ingin fitur dari website tidak terlalu sulit dan tidak banyak mekanisme agar _user friendly_ .
+- Ingin fitur dari website tidak terlalu sulit dan tidak banyak mekanisme agar _user friendly_ 
 - Tidak mengetahui perkembangan dari pasiennya.
 - Tidak mengetahui riwayat penyakit yang jelas dari pasien.
 - Sistem pembayaran masih semi manual.
