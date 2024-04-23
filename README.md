@@ -27,9 +27,11 @@ Kami merancang sebuah website yang menyediakan solusi lengkap untuk kebutuhan pa
 3. Admin
 
 ### Use Case:
+![WhatsApp Image 2024-04-23 at 08 37 11_d0b67ad7](https://github.com/erpianairm/Kelompok03_Fisioterapi_APBO/assets/145968943/daead24d-6e88-4437-87a5-b2cb4dc20bc8)
+
 
 ### ERD (Entity Relationship Diagram):
-[Klik Untuk Melihat ERD Kami](https://drive.google.com/file/d/10RoZ7kUicVYE4uNFk__IfZesJ4LX7uaO/view?usp=drive_link)
+![WhatsApp Image 2024-04-14 at 20 23 17_9655ccc6](https://github.com/erpianairm/Kelompok03_Fisioterapi_APBO/assets/145968943/d2cc7b02-4296-417c-bb9a-efb8bc1075cb)
 
 ### Class Diagram:
 [Klik Untuk Melihat Class Diagram Kami](https://drive.google.com/file/d/1gBKphIMzX1N4_44oXYHCNPzK2NuTvmQE/view?usp=drive_link) 
