@@ -34,7 +34,7 @@ Kami merancang sebuah website yang menyediakan solusi lengkap untuk kebutuhan pa
 ![WhatsApp Image 2024-04-14 at 20 23 17_9655ccc6](https://github.com/erpianairm/Kelompok03_Fisioterapi_APBO/assets/145968943/d2cc7b02-4296-417c-bb9a-efb8bc1075cb)
 
 ### Class Diagram:
-[Klik Untuk Melihat Class Diagram Kami](https://drive.google.com/file/d/1gBKphIMzX1N4_44oXYHCNPzK2NuTvmQE/view?usp=drive_link) 
+![class diagram APBO Kelompok 3](https://github.com/erpianairm/Kelompok03_Fisioterapi_APBO/assets/148334075/6fa14fac-90c7-4260-8fc1-7373b97abb2c)
 
 ### Wireframe:
 [Klik Untuk Melihat Design Figma Wireframe](https://www.figma.com/file/0ApKVLPTnQUgQDQMOueIZK/wireframe-APBO?type=design&mode=design&t=f4IdEvkUrNTKedmM-1)
