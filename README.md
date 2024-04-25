@@ -45,7 +45,7 @@ KamyFisio menyediakan kwitansi dengan format yang mudah dipahami dan dibaca. Hal
 ---
 
 ## Penjelasan UI
-[Klik Untuk Melihat Penjelasan UI] (https://youtu.be/R_GqFhUbW_4?si=azN-aUyQZIy9vSFW)
+[Klik Untuk Melihat Penjelasan UI](https://youtu.be/R_GqFhUbW_4?si=azN-aUyQZIy9vSFW)
 
 ## Struktur Website
 ### Home / Halaman Utama:
