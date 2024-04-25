@@ -43,7 +43,7 @@ KamyFisio menyediakan kwitansi dengan format yang mudah dipahami dan dibaca. Hal
 [Klik Untuk Melihat Design Figma Wireframe](https://www.figma.com/file/0ApKVLPTnQUgQDQMOueIZK/wireframe-APBO?type=design&mode=design&t=f4IdEvkUrNTKedmM-1)
 
 ### Link Youtube Penjelasan Struktur Website
-[Klik Untuk Melihat Penjelasan UI](https://youtu.be/R_GqFhUbW_4?si=azN-aUyQZIy9vSFW)
+[Klik Untuk Melihat Penjelasan Link Youtube](https://youtu.be/R_GqFhUbW_4?si=azN-aUyQZIy9vSFW)
 
 ---
 
