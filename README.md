@@ -24,6 +24,7 @@ Kami merancang sebuah website yang menyediakan solusi lengkap untuk kebutuhan pa
 - Rekam medis elektronik untuk mendokumentasikan riwayat kesehatan pasien, pengobatannya
 - Catatan harian untuk mengetahui perkembangan pasien
 - Sistem pencocokan fisioterapis berdasarkan kondisi pasien
+- Pembayaran online dan riwayat pembayaran untuk memudahkan pengecekan dan pelacakan transaksi
 - Penjadwalan online untuk memesan waktu janji dengan fisioterapis dan manajemen daftar tunggu jika ingin memesan waktu janji dengan fisioterapi yang sudah penuh agar tidak bentrok
 - Ada banyak pilihan untuk pemeriksaan online seperti form yang sudah di sediakan di fitur website, atau mengkontak klinik yang sudah di sediakan
 - Konsultasi gratis yang mau konsultasi langsung ke fisioterapinya
