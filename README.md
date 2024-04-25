@@ -31,7 +31,6 @@ Kami merancang sebuah website yang menyediakan solusi lengkap untuk kebutuhan pa
 
 ### Kwitansi
 ![image](https://github.com/erpianairm/Kelompok03_Fisioterapi_APBO/assets/145961029/9089b6c1-a1ac-4667-8423-672caf8a309c)
-
 KamyFisio menyediakan kwitansi dengan format yang mudah dipahami dan dibaca. Hal ini dilakukan untuk memastikan transparansi setiap pembayaran dan memudahkan pasien memahami detail transaksi. Selain itu, kami tahu bahwa setiap praktik fisioterapi memiliki kebutuhan unik. Oleh karena itu, format kwitansi ini fleksibel sehingga dapat disesuaikan dengan kebutuhan unik setiap praktik. Ini memastikan bahwa kwitansi yang dikeluarkan tidak hanya informatif tetapi juga relevan dengan prosedur bisnis dan kebijakan praktik fisioterapi yang berlaku.
 
 ### ERD (Entity Relationship Diagram):
