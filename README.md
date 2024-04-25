@@ -11,12 +11,23 @@ Kami merancang sebuah website yang menyediakan solusi lengkap untuk kebutuhan pa
 - Shafira Desika A - 4522210084
 
 ---
-## Permasalahan Klinik Kamy Physio
+## Permasalahan Klinik Kamy Physio:
 
 - Ingin fitur dari website tidak terlalu sulit dan tidak banyak mekanisme agar _user friendly_ 
 - Tidak mengetahui perkembangan dari pasiennya.
 - Tidak mengetahui riwayat penyakit yang jelas dari pasien.
 - Sistem pembayaran masih semi manual.
+
+## Solusi Yang Ditawarkan:
+
+- Membuat fitur website yang mekanisme nya tidak begitu sulit
+- Rekam medis elektronik untuk mendokumentasikan riwayat kesehatan pasien, pengobatannya
+- Catatan harian untuk mengetahui perkembangan pasien
+- Sistem pencocokan fisioterapis berdasarkan kondisi pasien
+- Penjadwalan online untuk memesan waktu janji dengan fisioterapis dan manajemen daftar tunggu jika ingin memesan waktu janji dengan fisioterapi yang sudah penuh agar tidak bentrok
+- Ada banyak pilihan untuk pemeriksaan online seperti form yang sudah di sediakan di fitur website, atau mengkontak klinik yang sudah di sediakan
+- Konsultasi gratis yang mau konsultasi langsung ke fisioterapinya
+- Penawaran diskon kepada yang daftar sebagai member card
 
 ---
 ## Penjelasan Actor, Use Case, ERD, Class Diagram, Struktur Website, dan Wireframe
