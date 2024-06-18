@@ -57,6 +57,9 @@ Kamy Physio menyediakan kwitansi dengan format yang mudah dipahami dan dibaca. H
 ### Link Youtube Penjelasan Struktur Website
 [Klik Untuk Melihat Penjelasan Link Youtube](https://youtu.be/R_GqFhUbW_4?si=azN-aUyQZIy9vSFW)
 
+### Sequence Diagram
+![sequencediagram](https://github.com/erpianairm/Kelompok03_Fisioterapi_APBO/assets/145976346/07997373-0a74-49c0-90f7-930c04238b73)
+
 ---
 
 ## Struktur Website
