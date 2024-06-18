@@ -51,14 +51,14 @@ Kamy Physio menyediakan kwitansi dengan format yang mudah dipahami dan dibaca. H
 ### Class Diagram:
 ![fisioterapi-classdiagram](https://github.com/erpianairm/Kelompok03_Fisioterapi_APBO/assets/145968943/6b4e98dd-cde5-47ff-81ea-bd4de038fd38)
 
+### Sequence Diagram
+![sequencediagram](https://github.com/erpianairm/Kelompok03_Fisioterapi_APBO/assets/145976346/85821a6a-44b3-4505-b624-f4fa6659c2fa)
+
 ### Wireframe:
 [Klik Untuk Melihat Design Figma Wireframe](https://www.figma.com/file/0ApKVLPTnQUgQDQMOueIZK/wireframe-APBO?type=design&mode=design&t=f4IdEvkUrNTKedmM-1)
 
 ### Link Youtube Penjelasan Struktur Website
 [Klik Untuk Melihat Penjelasan Link Youtube](https://youtu.be/R_GqFhUbW_4?si=azN-aUyQZIy9vSFW)
-
-### Sequence
-
 
 ---
 
