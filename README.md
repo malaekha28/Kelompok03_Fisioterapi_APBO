@@ -48,6 +48,9 @@ Kamy Physio menyediakan kwitansi dengan format yang mudah dipahami dan dibaca. H
 ### ERD (Entity Relationship Diagram):
 ![WhatsApp Image 2024-04-14 at 20 23 17_9655ccc6](https://github.com/erpianairm/Kelompok03_Fisioterapi_APBO/assets/145968943/d2cc7b02-4296-417c-bb9a-efb8bc1075cb)
 
+### Sequence Diagram
+![sequencediagram_v3](https://github.com/erpianairm/Kelompok03_Fisioterapi_APBO/assets/145976346/dcd76fef-cd53-4272-b445-5609d46d4bdf)
+
 ### Class Diagram:
 ![fisioterapi-classdiagram](https://github.com/erpianairm/Kelompok03_Fisioterapi_APBO/assets/145968943/6b4e98dd-cde5-47ff-81ea-bd4de038fd38)
 
